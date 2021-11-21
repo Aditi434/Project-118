@@ -1,0 +1,34 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div1
+{
+    float: none;
+    background:white;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    padding: 10px;
+    border-radius:20px;
+}
+.heading_div2
+{
+    font-size: 18px;
+}
+.Object
+{
+    font-size: 18px;
+}
+.background
+{
+    background-size: cover;
+    background-position: center;
+    height:100% ;
+    width:100%;
+    background-image: url('family.jfif');
+   
+}
